@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="APIforVsphere:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/APIforVsphere_jar</output-path>
+    <root id="archive" name="APIforVsphere.jar">
+      <element id="module-output" name="APIforVsphere" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Tesi/VSphere API/dom4j-1.6.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Tesi/VSphere API/vijava5120121125.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
